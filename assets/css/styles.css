@@ -38,6 +38,10 @@ nav {
     position: relative;
     font-weight: 400;
 }
+
+.navbar-toggler {
+    box-shadow: 0 2px 4px 0 #00000033;
+}
 .header {
     position: relative;
     overflow: hidden;
@@ -48,12 +52,12 @@ nav {
 }
 .carouselExampleControls{
     width: 100%;
-    height: 790px;
+    height: 590px;
     display: flex;
 }
 
 #carouselExampleControls img{
-    height: 790px;     
+    height: 590px;     
     width: 100% auto;
     display: flex;
     position: relative;
