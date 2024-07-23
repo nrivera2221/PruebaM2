@@ -148,21 +148,25 @@ h2{
 
 footer {
         background-color: #0dcaf0;
-        padding-top: 3rem;
+        padding-top: 2rem;
         text-align: center;
         vertical-align: middle;
         padding: 2.5rem 0;
-        font-family: "Raleway",sans-serif;
         font-weight: 300;
-
+        display: flex;
+        justify-content: space-around;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
 }
 #footer-2{
-    padding-top: 0.3rem;
+    padding-top: 0.2rem;
     padding-left: 2rem;
     text-align: center;
     font-size: 20px;
     font-weight: 400;
-    margin-left: 2rem;
+    margin-left: 33rem;
+    position: relative;
 }
 
 #about .row {
@@ -195,8 +199,8 @@ footer {
 }
 #rrss {
     font-size: 1.5rem;
-    margin-left: 20rem;
-    margin-right: 1rem;
+    margin-left: 33rem;
+    margin-right: 0;
     display: inline-flex;
 }
 @import "bootstrap" 
