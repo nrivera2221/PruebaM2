@@ -50,7 +50,7 @@ nav {
 }
 .navbar-brand img{
     height: 3.3rem;
-    padding-left: 3rem;
+    padding-left: auto;
     margin-left: 25%;
 }
 .carouselExampleControls{
